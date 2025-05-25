@@ -27,7 +27,6 @@
   "code-runner.runInTerminal": true,
   "code-runner.ignoreSelection": true,
   "terminal.external.linuxExec": "xterm",
-  "c-cpp-compile-run.run-in-external-terminal": true,
   "workbench.editorAssociations": {
     "*.exe": "default"
   },
