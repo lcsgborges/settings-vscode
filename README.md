@@ -13,6 +13,13 @@ This repository is for personal use, but feel free to take inspiration or adapt 
 
 ## How to install 
 
+Clone this repository
+
+```
+git clone https://github.com/lcsgborges/settings-vscode.git
+cd settings-vscode
+```
+
 ### Extensions
 
 ```
